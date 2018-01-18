@@ -1196,7 +1196,7 @@ hr {
   width: 100%;
   max-width: none;
   height: 100%;
-  background: url(../images/background-cover.jpg) top left no-repeat #666666;
+  background: url(http://zhaoyia.oss-cn-beijing.aliyuncs.com/yiquanchaoren.jpg?Expires=1516265438&OSSAccessKeyId=TMP.AQEWPixZspnZ1qbodF0hUSaQszaRhqMmr_7vvNDfr2aSOfBRwttyzroNpXaqMC4CFQDvwKpoxhXypqgMjfjy5JrDP_xXKQIVAL_XKlIV4eng-H_aNaT1f1a2EanI&Signature=JjqHnOob23YT1XyMK5A4lXnbLTw%3D) top left no-repeat #666666;
   background-size: cover; }
 
 .panel-cover--collapsed {
